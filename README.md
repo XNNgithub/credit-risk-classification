@@ -34,9 +34,9 @@ Structure your report by using the report template that `Starter_Code.zip` inclu
 The purpose of this analysis is to create and evaluate the accuracy of a data model that predicts the credity worthiness of potential borrowers from peer-to-peer lending services.
 
 2. The results: Using a bulleted list, describe the accuracy score, the precision score, and recall score of the machine learning model.
-Balanced Accuracy Score: 95% - This score indicates a high level of accuracy in predicting creditworthiness, taking into account both sensitivity (recall) and specificity. In this case, the model correctly predicted the outcome 95.2% of the time.
-Precision Score: 92% - This score measures how many of the predicted positive outcomes were correct. A precision score of 92% indicates that 92% of the time when the model predicted a borrower as creditworthy, it was correct.
-Recall Score: 95% - The recall score measures the proportion of true positive values correctly identified out of all actual positive cases. A score of 95% means the model is highly effective at capturing true positives.
+- Balanced Accuracy Score: 95% - This score indicates a high level of accuracy in predicting creditworthiness, taking into account both sensitivity (recall) and specificity. In this case, the model correctly predicted the outcome 95% of the time.
+- Precision Score: 92% - This score measures how many of the predicted positive outcomes were correct. A precision score of 92% indicates that 92% of the time when the model predicted a borrower as creditworthy, it was correct.
+- Recall Score: 95% - The recall score measures the proportion of true positive values correctly identified out of all actual positive cases. A score of 95% means the model is highly effective at capturing true positives.
 
 3. Summarize the results from the machine learning model. Include your justification for recommending the model for use by the company. If you don’t recommend the model, justify your reasoning.
 Based on these results, I would recommend using this model for assessing the creditworthiness of borrowers in a peer-to-peer lending context. The high accuracy, precision, and recall scores demonstrate the model's effectiveness in predicting loan repayment outcomes. This level of accuracy is essential for risk assessment in lending, ensuring that lenders can make informed decisions to manage their capital flow and profitability effectively.
